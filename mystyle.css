@@ -1,0 +1,14 @@
+
+ul li{
+	list-style: none;
+}
+.cur{
+	cursor: pointer;
+}
+
+small{
+	color: red;
+}
+
+
+
